@@ -1,0 +1,324 @@
+[
+  {
+    "level": 1,
+    "text": "Dein erster Tag in der Küche. Der Küchenchef fragt: 'Hast du deine Belehrung dabei?' Was meint er?",
+    "answers": ["Ein Schulzeugnis", "Die Belehrung nach §43 IfSG", "Ein Sportmedizinisches Gutachten", "Den Erste-Hilfe-Schein"],
+    "correctIndex": 1,
+    "erklaerung": "Ohne Gesundheitsbelehrung nach Infektionsschutzgesetz darfst du keine Lebensmittel anfassen. Pflicht!"
+  },
+  {
+    "level": 1,
+    "text": "Du hast dich am Messer geschnitten. Was ist dein ERSTER Schritt?",
+    "answers": ["Weiterarbeiten, ist ja nur ein Kratzer", "Chef Bescheid sagen und Pause machen", "Wunde versorgen und blaues Pflaster drauf", "Kurz unter Wasser halten reicht"],
+    "correctIndex": 2,
+    "erklaerung": "Wunde sofort versorgen! Blaues Pflaster ist Pflicht in der Küche - es ist auffällig und detektierbar."
+  },
+  {
+    "level": 1,
+    "text": "Warum sind Pflaster in der Profi-Küche BLAU?",
+    "answers": ["Weil blau die Lieblingsfarbe von Köchen ist", "Weil sie wasserfest sind", "Weil blaue Lebensmittel selten sind und man sie sofort sieht", "Weil es Vorschrift der EU ist"],
+    "correctIndex": 2,
+    "erklaerung": "Blaue Pflaster fallen sofort auf, wenn sie ins Essen fallen. Kein Lebensmittel ist natürlich blau!"
+  },
+  {
+    "level": 1,
+    "text": "Dein Kollege niest in die Hand und greift direkt zum Messer. Deine Reaktion?",
+    "answers": ["Nichts sagen, will ja kein Streber sein", "'Alter, Hände waschen!' sagen", "Dem Chef petzen", "Desinfektionsmittel auf das Messer sprühen"],
+    "correctIndex": 1,
+    "erklaerung": "Hände waschen ist nach dem Niesen absolute Pflicht. Direktes Ansprechen ist kein Petzen, sondern Verantwortung."
+  },
+  {
+    "level": 1,
+    "text": "Der Chef sagt: 'Mach das HACCP fertig.' Was will er von dir?",
+    "answers": ["Die Speisekarte aktualisieren", "Den Dienstplan schreiben", "Die Temperaturkontrollpunkte dokumentieren", "Das Lager aufräumen"],
+    "correctIndex": 2,
+    "erklaerung": "HACCP = Gefahrenanalyse kritischer Kontrollpunkte. Temperaturen messen und protokollieren ist Kernaufgabe."
+  },
+  {
+    "level": 1,
+    "text": "Du checkst den Kühlschrank. Welche Temperatur muss er haben?",
+    "answers": ["Unter 0 Grad Celsius", "Zwischen 2 und 7 Grad Celsius", "Zwischen 8 und 12 Grad Celsius", "Genau 5 Grad, keinen Grad mehr"],
+    "correctIndex": 1,
+    "erklaerung": "2-7 Grad Celsius ist die Regel. In diesem Bereich werden Bakterien ausgebremst, aber nichts friert ein."
+  },
+  {
+    "level": 1,
+    "text": "Eine Lieferung Hackfleisch kommt an. Bis wann MUSST du es verarbeiten?",
+    "answers": ["Innerhalb von 3 Tagen", "Am gleichen Tag", "Innerhalb einer Woche", "Bis zum MHD auf der Packung"],
+    "correctIndex": 1,
+    "erklaerung": "Hackfleisch ist das empfindlichste Fleischprodukt. Am Anlieferungstag verarbeiten oder durchgaren!"
+  },
+  {
+    "level": 1,
+    "text": "Dein Ring blitzt beim Schneiden. Der Sous-Chef sieht das. Was passiert jetzt?",
+    "answers": ["Er bewundert den Ring", "Ring ab - Schmuck ist in der Küche verboten", "Er sagt dir, den Ring mit einem Pflaster abzukleben", "Nichts, Ringe sind erlaubt"],
+    "correctIndex": 1,
+    "erklaerung": "Schmuck ist ein Hygiene-Risiko: Bakterien sammeln sich darunter und er kann ins Essen fallen."
+  },
+  {
+    "level": 1,
+    "text": "Was bedeutet das Kürzel 'MHD' auf einer Verpackung?",
+    "answers": ["Maximale Haltbarkeitsdauer", "Mindesthaltbarkeitsdatum", "Mittwochs Haltbar Danach", "Menge Höchstens Dreimal"],
+    "correctIndex": 1,
+    "erklaerung": "Mindesthaltbarkeitsdatum - das Produkt ist MINDESTENS bis dahin gut. Danach prüfen: Sehen, Riechen, Schmecken."
+  },
+  {
+    "level": 1,
+    "text": "Rohes Hähnchen auf dem gleichen Brett wie der Salat schneiden - geht das?",
+    "answers": ["Klar, spart Abwasch", "Nur wenn man das Brett kurz abwischt", "NIEMALS - Kreuzkontamination!", "Ja, wenn das Hähnchen frisch ist"],
+    "correctIndex": 2,
+    "erklaerung": "Kreuzkontamination ist einer der häufigsten Gründe für Lebensmittelvergiftungen. Immer getrennte Bretter!"
+  },
+  {
+    "level": 1,
+    "text": "Die 'Gefahrenzone' bei Lebensmitteltemperaturen - welcher Bereich ist gemeint?",
+    "answers": ["Unter 0 Grad Celsius", "Zwischen 7 und 65 Grad Celsius", "Über 100 Grad Celsius", "Zwischen 0 und 4 Grad Celsius"],
+    "correctIndex": 1,
+    "erklaerung": "Zwischen 7 und 65 Grad vermehren sich Bakterien am schnellsten. Das ist die Party-Zone für Keime!"
+  },
+  {
+    "level": 1,
+    "text": "Nach dem Toilettengang - was ist absolute PFLICHT?",
+    "answers": ["Nur Hände waschen", "Hände waschen UND desinfizieren", "Handschuhe anziehen reicht", "Kurz an der Schürze abwischen"],
+    "correctIndex": 1,
+    "erklaerung": "Hände waschen und desinfizieren. Doppelt hält besser - Bakterien nehmen keine Pause."
+  },
+  {
+    "level": 1,
+    "text": "Der Kühlraum riecht komisch. Was ist dein erster Check?",
+    "answers": ["Tür zu und ignorieren", "Raumspray benutzen", "Temperatur prüfen und nach verdorbener Ware suchen", "Den Lüfter einschalten"],
+    "correctIndex": 2,
+    "erklaerung": "Sofort Temperatur checken! Ein komischer Geruch ist oft das erste Zeichen, dass etwas nicht stimmt."
+  },
+  {
+    "level": 1,
+    "text": "Der Chef fragt: 'Wie lange müssen die Rückstellproben aufbewahrt werden?'",
+    "answers": ["24 Stunden", "3 Tage", "Mindestens 7 Tage", "Einen Monat"],
+    "correctIndex": 2,
+    "erklaerung": "Rückstellproben müssen mindestens 7 Tage bei unter 7 Grad aufbewahrt werden. Bei Problemen kann man so zurückverfolgen."
+  },
+  {
+    "level": 1,
+    "text": "Welches Schneidebrett ist laut Farbsystem für Geflügel vorgesehen?",
+    "answers": ["Grün", "Rot", "Gelb", "Blau"],
+    "correctIndex": 2,
+    "erklaerung": "Gelb = Geflügel. Das Farbsystem verhindert Kreuzkontamination. Grün ist für Salat, Rot für rohes Fleisch."
+  },
+  {
+    "level": 2,
+    "text": "Der Küchenchef brüllt 'Marche!' - was passiert jetzt?",
+    "answers": ["Alle stellen sich in einer Reihe auf", "Das Essen geht raus - ab zum Gast!", "Die Küche wird geputzt", "Mittagspause beginnt"],
+    "correctIndex": 1,
+    "erklaerung": "'Marche' kommt aus dem Französischen und heißt 'Los!'. Das Essen ist angerichtet und muss SOFORT raus."
+  },
+  {
+    "level": 2,
+    "text": "Was bedeutet 'Mise en Place'?",
+    "answers": ["Das Menü des Tages", "Alles an seinem Platz - komplett vorbereitet", "Die Mittagspause", "Der Feierabend"],
+    "correctIndex": 1,
+    "erklaerung": "Mise en Place ist das A und O. Alles geschnitten, portioniert, bereitgestellt BEVOR der Service losgeht."
+  },
+  {
+    "level": 2,
+    "text": "Wer ist der 'Saucier' in der Brigade?",
+    "answers": ["Der Tellerwäscher", "Der Saucenkoch - einer der wichtigsten Posten", "Der Lehrling", "Der Serviceleiter"],
+    "correctIndex": 1,
+    "erklaerung": "Der Saucier macht alle warmen Saucen und ist oft der erfahrenste Koch nach dem Chef. Ein Königsposten!"
+  },
+  {
+    "level": 2,
+    "text": "'Commis de Cuisine' - das bist DU als Azubi. Was heißt das wörtlich?",
+    "answers": ["Kommissar der Küche", "Jungkoch", "Küchenhelfer", "Praktikant"],
+    "correctIndex": 1,
+    "erklaerung": "Commis = Jungkoch. Du bist Teil der Brigade und lernst an verschiedenen Posten. Sei stolz drauf!"
+  },
+  {
+    "level": 2,
+    "text": "Du stehst am 'Pass'. Was ist deine Aufgabe dort?",
+    "answers": ["Ausweise kontrollieren", "Essen kontrollieren und an den Service übergeben", "Gemüse schneiden", "Töpfe spülen"],
+    "correctIndex": 1,
+    "erklaerung": "Der Pass ist DIE Schnittstelle zwischen Küche und Service. Hier wird kontrolliert, ob jeder Teller perfekt ist."
+  },
+  {
+    "level": 2,
+    "text": "Was macht der 'Entremetier'?",
+    "answers": ["Er macht die Saucen", "Er ist für Beilagen, Suppen und Eierspeisen zuständig", "Er macht Desserts", "Er macht kalte Vorspeisen"],
+    "correctIndex": 1,
+    "erklaerung": "Der Entremetier ist der Beilagenkoch. Kartoffeln, Gemüse, Suppen - alles was das Hauptgericht begleitet."
+  },
+  {
+    "level": 2,
+    "text": "Der 'Gardemanger' ruft dich. Wohin gehst du?",
+    "answers": ["Zum Grill", "Zur kalten Küche", "Zum Ofen", "Zur Spüle"],
+    "correctIndex": 1,
+    "erklaerung": "Der Gardemanger ist der Chef der kalten Küche: Salate, kalte Vorspeisen, Terrinen, Pâtés."
+  },
+  {
+    "level": 2,
+    "text": "Was bedeutet 'à la minute' auf einer Bestellung?",
+    "answers": ["Vorher zubereitet und warmgehalten", "Frisch und sofort auf Bestellung zubereitet", "In einer Minute fertig", "Aus der Mikrowelle"],
+    "correctIndex": 1,
+    "erklaerung": "À la minute heißt: Jetzt frisch kochen! Keine Wartezeit, keine Vorbereitung. Direkt für den Gast."
+  },
+  {
+    "level": 2,
+    "text": "Was ist ein 'Bon' in der Küche?",
+    "answers": ["Ein Gutschein", "Die Bestellung vom Service - dein Arbeitsauftrag", "Ein Trinkgeld", "Eine Beschwerde"],
+    "correctIndex": 1,
+    "erklaerung": "Der Bon kommt rein, der Chef liest vor, die Brigade arbeitet. Ohne Bon kein Essen!"
+  },
+  {
+    "level": 2,
+    "text": "'Abschmecken!' - Der Chef reicht dir einen sauberen Löffel. Was tust du?",
+    "answers": ["Schnell probieren und 'Gut!' sagen", "Die Würzung prüfen und ehrlich Feedback geben", "Ablehnen, du hast keinen Hunger", "Salz drauf und fertig"],
+    "correctIndex": 1,
+    "erklaerung": "Abschmecken heißt: Salz, Säure, Schärfe, Süße prüfen. Sag ehrlich was fehlt - der Chef will deine Meinung!"
+  },
+  {
+    "level": 2,
+    "text": "Was heißt 'Clean as you go'?",
+    "answers": ["Am Ende der Schicht alles putzen", "Laufend während der Arbeit aufräumen und sauber halten", "Die Putzfirma rufen", "Nur den eigenen Posten sauber halten"],
+    "correctIndex": 1,
+    "erklaerung": "Während du arbeitest: Abfälle weg, Brett abwischen, Werkzeug zurück. So versinkst du nicht im Chaos."
+  },
+  {
+    "level": 2,
+    "text": "Das 'Ampelsystem' für Schneidebretter - welche Farbe steht für Gemüse?",
+    "answers": ["Rot", "Grün", "Gelb", "Blau"],
+    "correctIndex": 1,
+    "erklaerung": "Grün = Gemüse und Salat. Rot = rohes Fleisch. Gelb = Geflügel. Blau = Fisch. Weiß = Brot und Milchprodukte."
+  },
+  {
+    "level": 2,
+    "text": "Der Sous-Chef sagt 'Service!'. Was passiert?",
+    "answers": ["Die Schicht ist vorbei", "Das Essen ist fertig und muss sofort zum Gast", "Es gibt Personalessen", "Der Service kommt in die Küche"],
+    "correctIndex": 1,
+    "erklaerung": "'Service!' heißt: Teller fertig, muss JETZT raus. Jede Sekunde zählt - das Essen wird kalt!"
+  },
+  {
+    "level": 2,
+    "text": "Was ist ein 'Posten' in der Küche?",
+    "answers": ["Eine Briefsendung", "Ein fester Arbeitsbereich mit klarer Aufgabe", "Ein Parkplatz", "Eine Bestellung"],
+    "correctIndex": 1,
+    "erklaerung": "Jeder Posten hat seinen Bereich: Saucier, Gardemanger, Entremetier. Als Azubi rotierst du durch alle."
+  },
+  {
+    "level": 2,
+    "text": "Der Chef sagt: 'Heute fährst du den Pass.' Darfst du das als Azubi?",
+    "answers": ["Nie im Leben", "Normalerweise nicht - der Pass ist Chefsache", "Klar, jeder darf das", "Nur wenn alle anderen krank sind"],
+    "correctIndex": 1,
+    "erklaerung": "Der Pass ist normalerweise dem Küchenchef oder Sous-Chef vorbehalten. Als Azubi darfst du assistieren und lernen."
+  },
+  {
+    "level": 3,
+    "text": "Deine Kartoffellieferung kommt. Welche Sorte nimmst du für Pommes frites?",
+    "answers": ["Festkochend", "Vorwiegend festkochend", "Mehligkochend", "Egal, Kartoffel ist Kartoffel"],
+    "correctIndex": 2,
+    "erklaerung": "Mehlig = mehr Stärke = knuspriger außen, fluffig innen. Das ist Chemie und Physik auf dem Teller!"
+  },
+  {
+    "level": 3,
+    "text": "Der Chef fragt: 'Ist der Spargel noch frisch?' Woran erkennst du es?",
+    "answers": ["An der Farbe", "Die Stangen quietschen beim Aneinanderreiben", "Am Gewicht", "Am Preis"],
+    "correctIndex": 1,
+    "erklaerung": "Der Quietschtest! Frische Spargelstangen quietschen und die Köpfe sind fest geschlossen. Schnittfläche muss saftig sein."
+  },
+  {
+    "level": 3,
+    "text": "'Brunoise' - der Chef will feine Würfel. Wie groß?",
+    "answers": ["1 Zentimeter", "5 Millimeter", "1 bis 2 Millimeter", "Egal, Hauptsache Würfel"],
+    "correctIndex": 2,
+    "erklaerung": "Brunoise sind die kleinsten Würfel: 1-2mm. Für Saucen, Füllungen und feine Garnituren. Übung macht den Meister!"
+  },
+  {
+    "level": 3,
+    "text": "Welches Gemüse hat im Winter Hauptsaison?",
+    "answers": ["Tomaten", "Paprika", "Grünkohl", "Zucchini"],
+    "correctIndex": 2,
+    "erklaerung": "Grünkohl ist DAS Wintergemüse! Er braucht sogar Frost für den besten Geschmack. Regional und saisonal kochen ist King."
+  },
+  {
+    "level": 3,
+    "text": "Dein Kollege fragt: 'Ist Rhabarber eigentlich Obst?' Was antwortest du?",
+    "answers": ["Ja, ist doch klar", "Nein - Rhabarber ist ein Gemüse, genauer: Stängelgemüse", "Es ist eine Wurzel", "Es ist ein Getreide"],
+    "correctIndex": 1,
+    "erklaerung": "Überraschung! Rhabarber ist botanisch ein Gemüse. Wird aber wie Obst verwendet. Klassischer Prüfungsfrage-Stoff."
+  },
+  {
+    "level": 3,
+    "text": "Die Tomaten sind noch grün. Wo lagerst du sie zum Nachreifen?",
+    "answers": ["Im Kühlschrank", "Bei Zimmertemperatur, nicht im Kühlschrank", "Im Tiefkühler", "Unter Wasser"],
+    "correctIndex": 1,
+    "erklaerung": "Tomaten NIEMALS in den Kühlschrank - die verlieren Aroma und werden mehlig. Zimmertemperatur und nachreifen lassen."
+  },
+  {
+    "level": 3,
+    "text": "Kartoffelsalat steht an. Welche Sorte nimmst du?",
+    "answers": ["Mehligkochend", "Vorwiegend festkochend", "Festkochend", "Süßkartoffel"],
+    "correctIndex": 2,
+    "erklaerung": "Festkochend! Die behalten ihre Form und zerfallen nicht. Für Salat willst du Biss, nicht Brei."
+  },
+  {
+    "level": 3,
+    "text": "Der Chef sagt: 'Bring mir Wurzelgemüse!' Was packst du ein?",
+    "answers": ["Tomaten, Paprika, Gurke", "Karotten, Sellerie, Petersilienwurzel", "Kartoffeln, Zwiebeln, Knoblauch", "Spinat, Mangold, Grünkohl"],
+    "correctIndex": 1,
+    "erklaerung": "Karotten, Sellerie, Petersilienwurzel - das klassische Suppengrün-Trio. Basis für jeden guten Fond!"
+  },
+  {
+    "level": 3,
+    "text": "Wie lagerst du Kartoffeln richtig?",
+    "answers": ["Hell und warm", "Im Kühlschrank", "Dunkel, kühl und trocken", "In Wasser eingelegt"],
+    "correctIndex": 2,
+    "erklaerung": "Dunkel, kühl (4-8 Grad), trocken. Licht macht sie grün und giftig (Solanin). Nicht neben Äpfeln lagern!"
+  },
+  {
+    "level": 3,
+    "text": "'Julienne' - was ist das?",
+    "answers": ["Kleine Würfel", "In feine Streifen geschnittenes Gemüse", "Grob gehackt", "In Scheiben geschnitten"],
+    "correctIndex": 1,
+    "erklaerung": "Julienne = feine Streifen (2mm dick, 5cm lang). Sieht elegant aus und gart gleichmäßig. Messerkunst!"
+  },
+  {
+    "level": 3,
+    "text": "Der Chef will 'Zesten' auf dem Teller. Was soll drauf?",
+    "answers": ["Kleine Kräuterhäufchen", "Hauchdünne Streifen von Zitrusschale", "Geraspelter Käse", "Puderzucker"],
+    "correctIndex": 1,
+    "erklaerung": "Zesten sind hauchfeine Streifen der äußeren Zitrusschale. Nur die farbige Schicht - das Weiße ist bitter!"
+  },
+  {
+    "level": 3,
+    "text": "Was ist der Unterschied zwischen Schalotten und normalen Zwiebeln?",
+    "answers": ["Schalotten sind größer", "Schalotten sind milder und feiner im Geschmack", "Kein Unterschied", "Schalotten sind schärfer"],
+    "correctIndex": 1,
+    "erklaerung": "Schalotten sind milder, süßlicher und feiner. Perfekt für Saucen und feine Küche. Zwiebeln für den Alltag."
+  },
+  {
+    "level": 3,
+    "text": "'Blanchieren und abschrecken' - warum das Eiswasser danach?",
+    "answers": ["Damit man sich nicht verbrennt", "Um den Garprozess sofort zu stoppen und die Farbe zu erhalten", "Damit es besser schmeckt", "Um Salz auszuwaschen"],
+    "correctIndex": 1,
+    "erklaerung": "Eiswasser stoppt das Garen sofort. So bleibt Brokkoli knackig-grün statt matschig-braun. Timing ist alles!"
+  },
+  {
+    "level": 3,
+    "text": "Der Chef sagt: 'Die Kräuter sind müde.' Was meint er?",
+    "answers": ["Sie brauchen Wasser", "Die Kräuter sind welk und nicht mehr frisch", "Sie sind zu stark gewürzt", "Sie sind tiefgefroren"],
+    "correctIndex": 1,
+    "erklaerung": "Müde Kräuter = welk und schlapp. Frische Kräuter sind knackig und duften intensiv. Im feuchten Tuch im Kühlschrank lagern!"
+  },
+  {
+    "level": 3,
+    "text": "Welcher Salat hat im Winter Hauptsaison in Deutschland?",
+    "answers": ["Kopfsalat", "Eisbergsalat", "Feldsalat", "Lollo Rosso"],
+    "correctIndex": 2,
+    "erklaerung": "Feldsalat (Rapunzel) ist DER Wintersalat. Wächst sogar unter Schnee! Nussig im Geschmack und voller Vitamine."
+  },
+  {
+    "level": 3,
+    "text": "Woran erkennst du eine reife Avocado?",
+    "answers": ["Sie ist immer grün", "Sie gibt auf leichten Druck nach", "Sie ist steinhart", "Sie hat braune Flecken"],
+    "correctIndex": 1,
+    "erklaerung": "Leichter Drucktest am Stielende. Gibt sie sanft nach = perfekt. Steinhart = unreif. Matschig = zu spät."
+  }
+]
