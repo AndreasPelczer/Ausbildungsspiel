@@ -65,6 +65,9 @@ struct AnswerButton: View {
             .shadow(color: shadowColor, radius: state == .normal ? 0 : 8)
         }
         .disabled(state != .normal)
+        .accessibilityLabel("Antwort \(label): \(text)")
+        .accessibilityHint(state == .normal ? "Doppeltippen zum Auswählen" : "")
+        .accessibilityAddTraits(state == .correct ? .isSelected : [])
         .scaleEffect(animateScale)
         .offset(x: shakeOffset)
         .padding(.horizontal)

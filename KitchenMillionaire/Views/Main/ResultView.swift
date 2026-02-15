@@ -229,7 +229,7 @@ struct ConfettiParticle: Identifiable {
 
     init() {
         let colors: [Color] = [.yellow, .orange, .red, .green, .blue, .purple, .pink]
-        self.color = colors.randomElement()!
+        self.color = colors.randomElement() ?? .yellow
         self.startX = CGFloat.random(in: 0.1...0.9)
         self.endX = startX + CGFloat.random(in: -0.15...0.15)
         self.size = CGFloat.random(in: 6...12)

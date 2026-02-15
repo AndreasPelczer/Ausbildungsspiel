@@ -238,12 +238,26 @@ struct LevelCell: View {
                 }
             }
         }
+        .accessibilityElement(children: .combine)
+        .accessibilityLabel(accessibilityDescription)
         .onAppear {
             if isNextLevel {
                 withAnimation(.easeInOut(duration: 1.2).repeatForever(autoreverses: true)) {
                     pulse = true
                 }
             }
+        }
+    }
+
+    private var accessibilityDescription: String {
+        switch state {
+        case .unlocked:
+            let starText = max(0, stars)
+            return "Level \(level), \(starText) von 3 Sternen\(isNextLevel ? ", nächstes Level" : "")"
+        case .locked:
+            return "Level \(level), gesperrt"
+        case .comingSoon:
+            return "Level \(level), demnächst verfügbar"
         }
     }
 

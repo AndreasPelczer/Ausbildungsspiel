@@ -28,7 +28,9 @@ class SoundManager {
             player = try AVAudioPlayer(contentsOf: url)
             player?.play()
         } catch {
+            #if DEBUG
             print("Fehler beim Abspielen: \(error.localizedDescription)")
+            #endif
         }
     }
 
